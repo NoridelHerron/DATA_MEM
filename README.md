@@ -18,7 +18,7 @@ This module implements a synchronous, word-addressable data memory unit in VHDL.
 - images/
     - tcl.png, wave_memread.png, wave_memWrite.png
 - src/
-    - DATA_MEM.vhd, reusable_function.png, reusable_function_definition.png
+    - DATA_MEM.vhd, reusable_function.vhd, function_definition.vhd
 - test_benches/
     - tb_DATA_MEM.vhd
 - .gitignore
